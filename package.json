@@ -1,0 +1,9 @@
+{
+  "name": "email-node",
+  "version": "1.0.1",
+  "dependencies": {
+    "nodemailer": "latest",
+    "express": "latest",
+    "@angular/cli": "6.2.0"
+  }
+}
